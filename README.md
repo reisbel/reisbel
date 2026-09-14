@@ -1,16 +1,24 @@
-### Hi there 👋
+# Reisbel Machado
 
-<!--
-**reisbel/reisbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Director of Technical Operations @ [Acium](https://www.acium.io)**
 
-Here are some ideas to get you started:
+Software Developer · Cloud Architect · SRE/DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+15+ years building and running cloud infrastructure.
+Right now I lead technical operations at Acium, working on browser security.
+Before that I was a Senior Software Engineer at itopia, building desktop-as-a-service on Google Cloud.
+
+Most of what's here is small, focused tooling: remote desktop and VDI, Kubernetes and Terraform, CI/CD plumbing, and lately MCP servers.
+
+## What I work with
+
+| | |
+| --- | --- |
+| **Cloud** | Google Cloud · Azure |
+| **Infrastructure** | Kubernetes · Terraform · Docker |
+| **Languages** | Go · JavaScript / Node.js · C# / .NET · Python · PowerShell |
+| **Delivery** | GitHub Actions · Azure DevOps · Cloud Build |
+
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/reisbel/)
